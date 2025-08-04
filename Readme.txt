@@ -1,6 +1,9 @@
-Thanks for downloading this template!
+Trabajo de Aplicaciones WEB
 
-Template Name: SnapFolio
-Template URL: https://bootstrapmade.com/snapfolio-bootstrap-portfolio-template/
+Realizado por Felipe Torres
+
+
+
+Template descargado de URL: https://bootstrapmade.com/snapfolio-bootstrap-portfolio-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
